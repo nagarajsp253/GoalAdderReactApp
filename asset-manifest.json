@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GoalAdderReactApp/static/css/main.040eb55f.css",
+    "main.js": "/GoalAdderReactApp/static/js/main.2e815558.js",
+    "static/js/787.2ee4025b.chunk.js": "/GoalAdderReactApp/static/js/787.2ee4025b.chunk.js",
+    "index.html": "/GoalAdderReactApp/index.html",
+    "main.040eb55f.css.map": "/GoalAdderReactApp/static/css/main.040eb55f.css.map",
+    "main.2e815558.js.map": "/GoalAdderReactApp/static/js/main.2e815558.js.map",
+    "787.2ee4025b.chunk.js.map": "/GoalAdderReactApp/static/js/787.2ee4025b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.040eb55f.css",
+    "static/js/main.2e815558.js"
+  ]
+}
